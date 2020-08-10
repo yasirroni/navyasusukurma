@@ -49,18 +49,6 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
-.bg-white{
-  background-color: #fff !important;
-}
-
-.bg-softbrown3 {
-  background-color: #D29F7A !important;
-}
-
-.bg-softbrown7 {
-  background-color: #F0DFD3 !important;
-}
-
 *,
 *::before,
 *::after {
@@ -10181,6 +10169,43 @@ header.masthead h1 {
   opacity: 1;
 }
 
+/* Self Edit */
+
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
 }
+
+.bg-white{
+  background-color: #fff !important;
+}
+
+.bg-softbrown3 {
+  background-color: #D29F7A !important;
+}
+
+.bg-softbrown7 {
+  background-color: #F0DFD3 !important;
+}
+
+.t-icon {
+  fill: #000;
+}
+
+/* .t-icon:hover {
+  fill: #000
+} */
+
+.cl-darkbrown {
+  color: #3C1900 !important
+}
+
+.cl-white {
+  color: #fff !important
+}
+
+.cl-f4623a {
+  color: #f4623a !important
+}
+/* .d-table.cl-darkbrown :hover{
+  fill: #f4623a !important;
+} */
